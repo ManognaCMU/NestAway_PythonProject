@@ -4,6 +4,7 @@ This application takes the input choice of the user which is symbolic of their a
 
 On running the application,
 Note: Please wait for approx. 1 minute for the file to execute
+
 a.	You should see a screen reuqesting for input
  
 b.	In this application you should input the number corresponding to the area in which you’d like to live, your minimum and maximum budget and the number of rooms you wish to rent.
